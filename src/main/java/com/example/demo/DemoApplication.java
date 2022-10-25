@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoApplication {
 @GetMapping
-	public String GetValue() {return "hi vemuri";}
+	public String GetValue() {return hi vemuri";}
 	public static void main(String[] args) {
 		//SpringApplication.run(DemoApplication.class, args);
 		
